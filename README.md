@@ -5,5 +5,5 @@
 <div>
   
 <div align="center">
-  <sup>**no more info needed 👌**</sup>
+  <sup><b>no more info needed 👌</b></sup>
 <div>
